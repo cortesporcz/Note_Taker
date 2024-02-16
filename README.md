@@ -11,10 +11,6 @@ The application’s front end has already been created. It's your job to build t
 This challenge is being used to showcase the training in Module 11 for Express.js, building server files and servers. We were given sample code that needed additional code to make this function as a working Note Taking site.
 
 
-[Github Repository Link]<br>
-[Heroku URL of the functional, deployed application]<br>
-[Git Hub Deployed page link (not functioning just repository site hosting readme file)]
-
 ## User Story
 AS A small business owner
 I WANT to be able to write and save notes
@@ -48,24 +44,18 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Installation
 
 Clone to your computer using SSH from GitHub:
-```
-
-```
 
 You'll also need to run to install the node required dependencies after you clone the install by running:
-```
 npm install
-```
+
 
 ## License
 Read more about [MIT license](https://opensource.org/licenses/MIT).
 
 ## Tests
-
-Review Note Taker site is working once installed. To run Note Taker site after installation run the following command: 
-```
-npm start
-```
+https://git.heroku.com/dry-savannah-26892.git
+![alt text](example/heroku_acortes.png)
+https://github.com/cortesporcz/Note_Taker
 
 ## Credits
 
