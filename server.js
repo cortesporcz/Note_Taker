@@ -29,5 +29,5 @@ app.use('/', htmlRoutes);
 
 // Set port to listening when running the npm start command
 app.listen(PORT, () =>
-  console.log(`App listening at http://localhost:${PORT} 🚀`)
+  console.log(`App listening at http://localhost:${PORT}`)
 );
